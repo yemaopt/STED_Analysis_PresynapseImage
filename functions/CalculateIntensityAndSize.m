@@ -1,3 +1,5 @@
+% Written by Ye Ma, Department of Biomedical Engineering, Johns Hopkins University
+
 function Results = CalculateIntensityAndSize(image, points, threshold, windowSize, axPlot)
 
 if nargin < 5
