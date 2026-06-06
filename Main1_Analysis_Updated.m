@@ -9,6 +9,7 @@
 clear
 clc
 close all
+warning('off', 'images:initSize:adjustingMag');
 
 %% -------------------- Configuration --------------------
 cfg = defaultConfig();
