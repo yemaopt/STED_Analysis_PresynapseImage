@@ -1,5 +1,4 @@
-% main1_Analysis_220709_optimized.m
-% Written by Ye Ma, Department of Biomedical Engineering, Johns Hopkins University, 2022
+% Written by Ye Ma, Department of Biomedical Engineering, Johns Hopkins University
 % Optimized interface/structure/readability version.
 %
 % Notes:
