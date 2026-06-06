@@ -10,6 +10,7 @@ clear
 clc
 close all
 warning('off', 'images:initSize:adjustingMag');
+set(groot,'DefaultFigureWindowStyle','normal')
 
 %% -------------------- Configuration --------------------
 cfg = defaultConfig();
