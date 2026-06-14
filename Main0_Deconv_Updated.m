@@ -1,4 +1,7 @@
 % Written by Ye Ma, Department of Biomedical Engineering, Johns Hopkins University, 2022
+% The two-step deconvolution code was adapted from the following reference:
+% "A versatile oblique plane microscope for large-scale and high-resolution imaging of subcellular dynamics", eLife 9:e57681
+% Etai Sapoznik, Bo-Jui Chang,..., Kevin M Dean, Reto P Fiolka
 
 close all
 clear
